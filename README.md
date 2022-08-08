@@ -1,2 +1,2 @@
 # Internship-Vyorius-VLSI-projects
-List of  projects which I performed as an intern in Vyorius in VLSI field.
+Projects which I performed as an intern trainee at Vyorius in IoT field.
